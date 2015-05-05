@@ -17,6 +17,10 @@ The [Ionic View](http://view.ionic.io/) app supports publishing and testing of p
 
 Files shared under ./apps/ on the host are shared under /app/apps/ in the container.
 
+## Sample app
+
+See ./apps/myTabbedApp/
+
 ## How to
 
 - provision container
